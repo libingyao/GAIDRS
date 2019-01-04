@@ -1,0 +1,1 @@
+select subimage from aqu where center_ra=163.618,center_dec=82.813,x_size=0.2,y_size=0.1,begin_time=2009-01-01,end_time=2018-12-06; \q
